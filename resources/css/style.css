@@ -25,3 +25,23 @@ header nav span {
   color: red;
   padding: 10px 15px;
 }
+main {
+  display: flex;
+}
+
+main div {
+  border: 1px solid black;
+  
+}
+
+.column.large {
+  width: 630px;
+}
+
+.column.medium {
+
+}
+
+.column.small {
+
+}
