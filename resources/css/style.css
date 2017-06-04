@@ -27,21 +27,22 @@ header nav span {
 }
 main {
   display: flex;
+  margin: 0px auto;
+  justify-content: center;
 }
 
 main div {
   border: 1px solid black;
-  
 }
 
-.column.large {
+.column .large {
   width: 630px;
 }
 
-.column.medium {
-
+.column .medium {
+  width: 300px;
 }
 
-.column.small {
-
+.column .small {
+  width: 240px;
 }
